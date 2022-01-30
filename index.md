@@ -22,7 +22,7 @@ markdown 语法				显示效果
 #include <stdio.h>
 int main() {
     	int a;
-    	paintf("please in code");
+    	printf("please in code");
     	scanf("%d",&a);
     	switch(a) {
             case 4:

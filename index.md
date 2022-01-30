@@ -32,8 +32,9 @@ int main() {
                 printf("no");
                 break;
             default:
-                printf("you are fist")
+                printf("you are fist");
         }
+        printf("owari");
     	return 0;
 }
 ```
